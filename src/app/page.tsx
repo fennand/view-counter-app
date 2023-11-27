@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center">
-      <p>You're looking at my root route. Roude!</p>
+      <p>You&apos;re looking at my root route. Roude!</p>
     </main>
   );
 }
